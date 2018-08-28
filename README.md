@@ -15,10 +15,7 @@ Given that this is one of Kirill's older course, I would suggest his Machine Lea
 
 ---
 ## Sections:
-1. [](https://github.com/alexguanga/udemy-deep-learning/tree/master/01_ArtificialNeuralNetworks)
-2. [](https://github.com/alexguanga/udemy-deep-learning/tree/master/02_ConvolutionalNeuralNetworks)
-3. [](https://github.com/alexguanga/udemy-deep-learning/tree/master/03_RecurrentNeuralNetworks)
-4. [](https://github.com/alexguanga/udemy-deep-learning/tree/master/04_SelfOrganizingMaps)
-5. [](https://github.com/alexguanga/udemy-deep-learning/tree/master/05_BoltzmannMachines)
-6. [](https://github.com/alexguanga/udemy-deep-learning/tree/master/06_AutoEncoders)
+1. [d](https://github.com/alexguanga/udemy-data-science-a-z/blob/master/02_IntroTableau.ipynb)
+2. [](https://github.com/alexguanga/udemy-data-science-a-z/blob/master/05_TableauForDataMining.ipynb)
+3. [](https://github.com/alexguanga/udemy-data-science-a-z/blob/master/06_AdvancedTableauDataMining.ipynb)
 ---
