@@ -15,7 +15,7 @@ Given that this is one of Kirill's older course, I would suggest his Machine Lea
 
 ---
 ## Sections:
-1. [d](https://github.com/alexguanga/udemy-data-science-a-z/blob/master/02_IntroTableau.ipynb)
-2. [](https://github.com/alexguanga/udemy-data-science-a-z/blob/master/05_TableauForDataMining.ipynb)
-3. [](https://github.com/alexguanga/udemy-data-science-a-z/blob/master/06_AdvancedTableauDataMining.ipynb)
+1. [Chapter 1: Visualization](https://github.com/alexguanga/udemy-data-science-a-z/tree/master/01_Visualization)
+2. [Chapter 2: Modeling](https://github.com/alexguanga/udemy-data-science-a-z/tree/master/02_Modeling)
+3. [Chapter 3: Data Preparation](https://github.com/alexguanga/udemy-data-science-a-z/tree/master/03_DataPreparation)
 ---
